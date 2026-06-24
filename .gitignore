@@ -1,0 +1,15 @@
+.agents/
+.codex/
+.workflow/
+.claude/
+AGENTS.md
+docs/dev-os/
+
+.env
+.env.*
+*.log
+node_modules/
+dist/
+build/
+tmp/
+temp/
