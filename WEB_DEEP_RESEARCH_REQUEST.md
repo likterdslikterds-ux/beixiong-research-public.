@@ -2,6 +2,18 @@
 
 Use this repository as a GitHub-connected research input for ChatGPT Web Deep Research.
 
+Primary Web-side repository:
+
+```text
+https://github.com/likterdslikterds-ux/beixiong-research-public..git
+```
+
+Upstream mirror used to prepare the public files:
+
+```text
+https://github.com/khuseynsheripov-art/beixiong-research-public
+```
+
 ## Goal
 
 Analyze how this browser-extension-style tool appears to support an automatic Ozon listing workflow.
